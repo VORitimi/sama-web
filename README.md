@@ -1,2 +1,2 @@
 # sama-web
-sample app
+sample web for selling mamager equires
